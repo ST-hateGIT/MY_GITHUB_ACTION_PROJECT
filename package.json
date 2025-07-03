@@ -1,0 +1,23 @@
+{
+  "name": "my_github_action_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/ST-hateGIT/MY_GITHUB_ACTION_PROJECT.git",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ST-hateGIT/MY_GITHUB_ACTION_PROJECT/issues"
+  },
+  "homepage": "https://github.com/ST-hateGIT/MY_GITHUB_ACTION_PROJECT#readme",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "express": "^5.1.0",
+    "mocha": "^11.7.1"
+  }
+}
